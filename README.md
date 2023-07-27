@@ -1,6 +1,16 @@
 # Digital_signal_processing_problems
 
-Basics of Signal Processing and Math
+Basics of Mathematics
+- Scalar, Vectors & Matrices
+- Translate Formula into Code
+- Functions & Anonymous Functions
+- Find, Min, Max
+- Descriptive Statistics
+- Calculus & Differential Equations
+- 2D plotting
+- 3D plotting
+
+Basics of Signal Processing 
 - Statistics
 - Convolution
 - Correlation
