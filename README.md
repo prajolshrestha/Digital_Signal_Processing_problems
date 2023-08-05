@@ -9,6 +9,7 @@ Basics of Mathematics
 - Calculus & Differential Equations
 - 2D plotting
 - 3D plotting
+- Inferential Statistics (Paramater Estimation)
 
 Basics of Signal Processing 
 - Statistics
