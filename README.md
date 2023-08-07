@@ -10,6 +10,7 @@ Basics of Mathematics
 - 2D plotting
 - 3D plotting
 - Inferential Statistics (Paramater Estimation)
+- Optimization (Linear Programming)
 
 Basics of Signal Processing 
 - Statistics
