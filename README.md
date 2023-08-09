@@ -10,6 +10,8 @@ Basics of Mathematics
 - 2D plotting
 - 3D plotting
 - Inferential Statistics (Paramater Estimation)
+    - Maximum Likelihood Estimation
+    - Maximum A Posteriori
 - Optimization (Linear Programming)
 
 Basics of Signal Processing 
