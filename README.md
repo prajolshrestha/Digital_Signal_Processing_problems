@@ -13,6 +13,8 @@ Basics of Mathematics
     - Maximum Likelihood Estimation
     - Maximum A Posteriori
 - Optimization (Linear Programming)
+    - Simplex Method (Primal/Dual)
+    - Integer Linear Programming 
 
 Basics of Signal Processing 
 - Statistics
