@@ -1,6 +1,6 @@
 # Digital_signal_processing_problems
 
-Basics of Mathematics
+## Basics of Mathematics
 - Scalar, Vectors & Matrices
 - Translate Formula into Code
 - Functions & Anonymous Functions
@@ -16,7 +16,7 @@ Basics of Mathematics
     - Simplex Method (Primal/Dual)
     - Integer Linear Programming 
 
-Basics of Signal Processing 
+## Basics of Signal Processing 
 - Statistics
 - Convolution
 - Correlation
